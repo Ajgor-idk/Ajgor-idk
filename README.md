@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajgor_idk
-- 👀 I’m interested in learning how to code. I'm new and just trying to find my way.
-- 🌱 I’m currently learning HTML/CSS. Planning on JS next.
+- 👀 I’m interested in learning how to code. I'm at the beginning of my journey still don't know many things, but working on making this better.
+- 🌱 I’m currently learning HTML/CSS and JS. Also getting more comfortable with React. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
